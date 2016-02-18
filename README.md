@@ -27,7 +27,7 @@ Files and content of /home/user/files_to_join path
 2;2;2;2;2
 ```
 
-##### Execute script
+##### Execute
 **$ python join_files.py -p /home/user/files_to_join -f new.csv**
 
 **$ cat new.csv**
@@ -36,5 +36,5 @@ Files and content of /home/user/files_to_join path
 2;2;2;2;2
 ```
 
-##### Test script
+##### Test
 **$ python -m unittest discover**
